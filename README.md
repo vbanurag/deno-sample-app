@@ -24,7 +24,7 @@ A secure runtime for JavaScript and TypeScript
 `https://github.com/vbanurag/deno-sample-app`
 
 > Run this Project
-`deno -A index.ts`
+`deno -A mod.ts`
 
 Verify the deployment by navigating to your server address in your preferred browser.
 
